@@ -1,0 +1,16 @@
+[
+  {"source_id": "d1", "title": "Data Analyst - Fresher", "company": "Demo Analytics Pvt Ltd", "location": "Hyderabad", "url": "https://example.com/jobs/d1", "posted_at": "2026-11-21", "salary": "",
+   "description": "We are hiring freshers (2025/2026 batch) as Data Analysts. Required: SQL, Excel, Power BI dashboards, basic Python (Pandas). Good communication. 0-1 years experience."},
+  {"source_id": "d2", "title": "Junior Business Analyst", "company": "Sample Retail Tech", "location": "Bangalore", "url": "https://example.com/jobs/d2", "posted_at": "2026-11-20", "salary": "",
+   "description": "Entry level role. Work with stakeholders, write SQL queries, build Excel and Tableau reports, track KPIs. Freshers with strong analytical skills welcome."},
+  {"source_id": "d3", "title": "Senior Data Scientist", "company": "Example FinCorp", "location": "Hyderabad", "url": "https://example.com/jobs/d3", "posted_at": "2026-11-21", "salary": "",
+   "description": "5+ years of experience in machine learning, deep learning and MLOps. Lead a team of data scientists."},
+  {"source_id": "d4", "title": "AI/ML Engineer Trainee", "company": "Demo GenAI Labs", "location": "Remote", "url": "https://example.com/jobs/d4", "posted_at": "2026-11-19", "salary": "",
+   "description": "Trainee role for 2026 graduates. Build LLM apps with Python, RAG pipelines, vector databases and prompt engineering. Knowledge of scikit-learn and Streamlit is a plus."},
+  {"source_id": "d5", "title": "Power BI Developer", "company": "Sample Consulting", "location": "Pune", "url": "https://example.com/jobs/d5", "posted_at": "2026-11-18", "salary": "",
+   "description": "Experience: 3-5 years in Power BI, DAX, SSIS and Azure Data Factory."},
+  {"source_id": "d6", "title": "MIS Executive (Fresher)", "company": "Demo Logistics", "location": "Chennai", "url": "https://example.com/jobs/d6", "posted_at": "2026-11-21", "salary": "",
+   "description": "Prepare daily MIS reports in advanced Excel (pivot tables, VLOOKUP/XLOOKUP), maintain data accuracy, basic SQL preferred. Freshers can apply."},
+  {"source_id": "d7", "title": "Data Analyst - Fresher", "company": "Demo Analytics Pvt Ltd", "location": "Hyderabad", "url": "https://example.com/jobs/d7-duplicate", "posted_at": "2026-11-21", "salary": "",
+   "description": "Duplicate of d1 posted on another site — the agent should remove it."}
+]
