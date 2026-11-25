@@ -142,5 +142,5 @@ Edit `src/settings.py` for search queries, cities (JSearch has its own shorter l
 
 ## 👨‍💻 Author
 
-**Akhil Reddy Sankati** — B.Tech CSE (2026)
-🔗 [GitHub](https://github.com/AkhilReddySankati) · [LinkedIn](https://www.linkedin.com/in/akhil-reddy-sankati-datascientist/) · 📧 akhilreddysankati1328@gmail.com
+**Naveen Jangili** — B.Tech CSD (2026)
+ 
